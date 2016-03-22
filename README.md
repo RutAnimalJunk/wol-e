@@ -12,7 +12,7 @@ WOL-E is a suite of tools for the Wake on LAN feature of network attached comput
 ### Quicklinks ###
 [Download Latest Version (2.0)](http://wol-e.googlecode.com/files/wol-e.2.0.tar.gz)
 
-[Help Page](http://)
+[Help Page](https://github.com/xXEmbalmerXx/wol-e/wiki)
 
 ### Screenshots ###
 
